@@ -1,0 +1,86 @@
+.read-more {
+  height: auto;
+}
+
+.read-less {
+  height: 50px;
+  overflow: hidden;
+}
+
+.list-group {
+  display: inline-block;
+}
+.validationStyle{
+  font-size:12px;
+  color:red;
+}
+.read-more {
+  height: auto;
+}
+
+.read-less {
+  height: 50px;
+  overflow: hidden;
+}
+
+.list-group {
+  display: inline-block;
+}
+.validationStyle{
+  font-size:12px;
+  color:red;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+
+}
+.form-control{
+  width:40% !important;
+  display: inline-block !important;
+  min-height: calc(2.5rem + 0.75rem + 2px) !important;
+  margin-right: 25px;
+ }
+ 
+
+ .chakuriSkillBaseFormControl{
+  width:40% !important;
+  display: inline-block !important;
+  min-height: calc(2.5rem + 0.75rem + 2px) !important;
+  margin-right: 25px;
+ }
+
+ .searchButton{
+   line-height: 2.6!important;
+   width:12%!important;
+   border-radius: 01.25rem!important;
+   margin-bottom: 15px!important;
+ }
+ 
+ label{
+   display: inline-block !important;
+   width: 40% !important;
+   margin-right: 25px !important;
+ }
+ 
+ .Skills{
+   text-decoration: underline;
+ 
+ }
+ .lightText{
+ font-weight:lighter;
+ }
+ .floatRight{
+   float: right;
+   font-weight: normal!important;
+ }
+ .collapseButton{
+   margin-top:-13px !important; 
+ }
+ .skillsSearchBar{
+  display: inline-block !important;
+  width: 40% !important;
+  margin-right: 25px !important;
+
+ }
